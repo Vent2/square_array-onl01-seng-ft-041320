@@ -4,4 +4,4 @@ def square_array(array)
     empty_array = square_array
   end
 end
- 
+
